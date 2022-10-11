@@ -9,7 +9,7 @@
 }
 
 html,
-body {
+  body {
     background: #f1f1f1;
     /* background-image: url("https://images.unsplash.com/photo-1664919418894-b787c5305bf6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"); */
     background-image: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
@@ -107,7 +107,7 @@ table {
     align-items: center;
     font-size: 0.9em;
     font-family: sans-serif;
-    min-width: 400px;
+    min-width: 500px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 
     max-width: 800px;
@@ -121,7 +121,7 @@ table {
 
 #styled-table th,
 #styled-table td {
-    padding: 20px 25px;
+    padding: 20px 24px;
 }
 
 #styled-table tbody tr {
